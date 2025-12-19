@@ -1,0 +1,343 @@
+📐 Math (5 Questions)
+
+1. Missing Number in Array
+2. Trailing Zeros in Factorial
+3. A Simple Fraction
+4. Nth Natural Number
+5. Smallest Positive Integer that cannot be represented as Sum
+
+
+📊 Arrays (19 Questions)
+
+6. Rotate Array
+7. Majority Element
+8. Plus One
+9. Array of Alternative Positive and Negative Numbers
+10. Product Array Puzzle
+11. Frequencies of Limited Range Array Elements
+12. Large Factorial
+13. Jump Game
+14. Maximum Number of 1’s
+15. Stock Buy and Sell
+16. Longest Consecutive Subsequence
+17. Maximum Value of Difference of a Pair of Elements and their Index
+18. Maximum Index
+19. K-th Element of Two Sorted Arrays
+20. Trapping Rain Water
+21. 3 Sum Closest
+22. Maximum Circular Subarray Sum
+23. Merge Without Extra Space
+
+
+🔍 Searching (10 Questions)
+
+24. Search Insert Position of K in a Sorted Array
+25. Collecting Wood
+26. Left Most and Right Most Index
+27. Bitonic Point
+28. Search an Element in Sorted and Rotated Array
+29. Square Root of a Number
+30. Find Missing in Second Array
+31. Painter’s Partition Problem
+32. Median of Two Sorted Arrays of Different Sizes
+33. Allocate Minimum Number of Pages
+
+
+
+🔃 Sorting (7 Questions)
+
+34. Wave Array
+35. Count the Number of Possible Triangles
+36. Triplets with Sum within Given Range
+37. Count Inversions
+38. Relative Sorting
+39. Minimum Platforms
+40. Maximum Index
+
+
+
+🧮 Matrix (6 Questions)
+
+41. Sort a 2D Vector Diagonally
+42. Spiral Matrix
+43. Boolean Matrix
+44. Rotate Matrix by 90 Degrees
+45. Search in a Row-Column Sorted Matrix
+46. Row with Maximum 1s
+
+
+
+🧵 String (10 Questions)
+
+47. Reverse Words in a Given String
+48. Longest Common Prefix
+49. Roman Number to Integer
+50. Next Higher Palindrome Number Using the Same Set of Digits
+51. Length of Longest Prefix Suffix
+52. Smallest Window in String Containing All Characters
+53. Validate an IP Address
+54. Implement Atoi
+55. Look and Say Pattern
+56. Longest K Unique Characters Substring
+
+
+#️⃣ Hashing (10 Questions)
+
+57. Key Pair
+58. Top K Frequent Elements in Array
+59. Intersection of Two Arrays
+60. Array Pair Sum Divisibility Problem
+61. Triplet Sum in Array
+62. Length of the Longest Substring
+63. Is Sudoku Valid
+64. Print Anagrams Together
+65. Subarrays with Sum K
+66. Longest Subarray with Sum Divisible by K
+
+
+
+🧠 Bit Masking (10 Questions)
+
+67. Reverse Bits
+68. Number of Set Bits
+69. Sum of Two Integers
+70. Check Whether K-th Bit is Set or Not
+71. Longest Consecutive 1’s
+72. Find the Element that Appears Once
+73. Gray Code
+74. Maximum AND
+75. Maximum Subset XOR
+76. Bit Difference
+
+
+
+🔗 Linked List (15 Questions)
+
+77. Merge Two Sorted Linked Lists
+78. Reverse a Linked List
+79. Delete a Node without Head Pointer
+80. Add Two Numbers Represented by Linked Lists
+81. Finding Middle Element in a Linked List
+82. Check if Linked List is Palindrome
+83. Rearrange a Linked List
+84. Detect and Remove a Loop in Linked List
+85. Merge Sort for Linked List
+86. Intersection of Linked List
+87. Rotate Linked List by K Places
+88. Flattening a Linked List
+89. Reverse a Linked List in Groups of Given Size
+90. Partition a Linked List Around a Given Value
+91. Clone a Linked List with Next and Random Pointers
+
+
+
+🗂 Stack (11 Questions)
+
+92. Parenthesis Checker
+93. Infix to Postfix
+94. Restrictive Candy Crush
+95. Next Larger Element
+96. Stock Span Problem
+97. The Celebrity Problem
+98. Maximum Rectangular Area in a Histogram
+99. Longest Valid Parentheses
+100. Maximum of Minimum for Every Window Size
+101. Remove K Digits
+102. 132 Geeky Buildings
+
+
+🚶 Queue (2 Questions)
+
+103. Maximum of All Subarrays of Size K
+104. Circular Tour (Sliding Window)
+
+
+
+⛏ Heap (5 Questions)
+
+105. Rearrange Characters
+106. Minimum Cost of Ropes
+107. Kth Largest Element of Stream
+108. Merge K Sorted Arrays
+109. Median of Stream
+
+
+
+🌳 Binary Tree (20 Questions)
+
+110. Symmetric Tree
+111. Zigzag Tree Traversal
+112. Check for Balanced Tree
+113. Height of Binary Tree
+114. Diameter of Binary Tree
+115. Determine if Two Trees are Identical
+116. Minimum Depth of Binary Tree
+117. Check if Subtree
+118. Inorder Traversal (Iterative)
+119. Preorder Traversal (Iterative)
+120. Postorder Traversal (Iterative)
+121. Vertical Traversal of a Binary Tree
+122. Construct Binary Tree from Preorder and Inorder Traversal
+123. Connect Nodes at Same Level
+124. Lowest Common Ancestor of a Binary Tree
+125. Boundary Traversal
+126. Sum Tree
+127. Binary Tree to Doubly Linked List
+128. Maximum Sum Path Between Two Leaf Nodes
+129. Burning Tree
+
+
+
+🌲 Binary Search Tree (10 Questions)
+
+130. Check for BST
+131. Array to BST
+132. Inorder Successor in BST
+133. Kth Largest Element in a BST
+134. Remove BST Keys Outside the Given Range
+135. Pair with Given Target in BST
+136. Unique BSTs
+137. Preorder Traversal and BST
+138. Merge Two BSTs
+139. Fixing Two Nodes of a BST
+
+
+
+🕸 Graph (14 Questions)
+
+140. Number of Islands
+141. COVID Spread
+142. Prerequisite Tasks
+143. Strongly Connected Component
+144. Minimum Swaps to Sort
+145. Shortest Path
+146. Circle of Strings
+147. Snake and Ladder Problem
+148. Detect Cycle in an Undirected Graph
+149. Detect Cycle in a Directed Graph
+150. Check for Bipartite Graph
+151. Unit Area of Largest Region of 1s
+152. Alien Dictionary
+153. Word Ladder
+
+
+
+🔤 Trie (3 Questions)
+
+154. Minimum XOR Value Pair
+155. Word Boggle – II
+156. Most Frequent Word in an Array of Strings
+
+
+
+💰 Greedy (9 Questions)
+
+157. N Meetings in One Room
+158. Coin Piles
+159. Maximize Toys
+160. Largest Number with Given Sum
+161. Minimize the Heights
+162. Fractional Knapsack
+163. Job Sequencing
+164. Police and Thieves
+165. Water the Plants
+
+
+
+🧩 Dynamic Programming (27 Questions)
+
+166. Count Ways to Reach the N’th Stair
+167. Get Minimum Squares
+168. Nth Fibonacci Number
+169. 0 – 1 Knapsack Problem
+170. Number of Coins
+171. Edit Distance
+172. Maximize The Cut Segments
+173. Box Stacking
+174. Longest Increasing Subsequence
+175. Longest Palindromic Substring
+176. Longest Common Substring
+177. Longest Common Subsequence
+178. Wildcard Pattern Matching
+179. Total Decoding Messages
+180. Max Length Chain
+181. Maximum Sum Increasing Subsequence
+182. Minimum Number of Jumps
+183. Subset Sum Problem
+184. Maximum Path Sum in Matrix
+185. Player with Max Score
+186. Shortest Common Supersequence
+187. Palindrome Partitioning
+188. Form a Palindrome
+189. Boolean Parenthesization
+190. Matrix Chain
+191. Maximum Profit
+192. Minimum Cost Path
+193. Partition Equal Subset Sum
+
+
+
+🔁 Recursion (6 Questions)
+
+194. Number of Paths
+195. Pascal's Triangle
+196. Josephus Problem
+197. Tower of Hanoi
+198. Special Keyboard
+199. Flood Fill Algorithm
+
+
+
+🔄 Backtracking (10 Questions)
+
+200. Permutations
+201. Letter Combinations of a Phone Number
+202. Generate Parentheses
+203. Word Boggle – I
+204. Rat in a Maze Problem
+205. Largest Number in K Swaps
+206. Combination Sum
+207. Palindrome Partitioning
+208. N-Queen Problem
+209. Solve the Sudoku
+
+
+
+🧮 Algorithms (15 Questions)
+
+210. Bubble Sort
+211. Insertion Sort
+212. Selection Sort
+213. Merge Sort
+214. Quick Sort
+215. Heap Sort
+216. Count Sort
+217. Kadane Algorithm
+218. Minimum Spanning Tree
+219. Implementing Dijkstra Algorithm
+220. Floyd Warshall
+221. Bellman Ford Algorithm
+222. Rabin-Karp Algorithm
+223. KMP Algorithm
+224. Z Algorithm
+225. Huffman Encoding
+
+
+🛠 Design (6 Questions)
+
+226. Stack Using Two Queues
+227. Queue Using Stack
+228. Ternary Search
+229. Binary Heap Operations
+230. LRU Cache
+231. Trie (Insert and Search)
+
+
+
+
+---
+
+Total Questions: 209
+
+
+---
