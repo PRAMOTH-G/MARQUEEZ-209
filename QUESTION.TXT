@@ -46,7 +46,7 @@
 
 🔃 Sorting (7 Questions)
 
-34. Wave Array
+34
 35. Count the Number of Possible Triangles
 36. Triplets with Sum within Given Range
 37. Count Inversions
@@ -72,7 +72,7 @@
 47. Reverse Words in a Given String
 48. Longest Common Prefix
 49. Roman Number to Integer
-50. Next Higher Palindrome Number Using the Same Set of Digits
+50. Next Higher Palindrome Numbe. Wave Arrayr Using the Same Set of Digits
 51. Length of Longest Prefix Suffix
 52. Smallest Window in String Containing All Characters
 53. Validate an IP Address
