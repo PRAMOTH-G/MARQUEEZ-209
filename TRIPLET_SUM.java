@@ -35,6 +35,6 @@ public class TRIPLET_SUM {
             System.out.println("Found");
         else
             System.out.println("Not Found");//suma
-        
+        //2sum
     }
 }
