@@ -34,7 +34,7 @@ public class TRIPLET_SUM {
         if(finalTrip(arr,L,R))
             System.out.println("Found");
         else
-            System.out.println("Not Found");//suma
+            System.out.println("Not Found");//sumaghjkjhjkjh
         //2sum
     }
 }
