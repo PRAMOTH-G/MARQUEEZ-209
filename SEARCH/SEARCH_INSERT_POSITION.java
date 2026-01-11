@@ -16,7 +16,7 @@ public class SEARCH_INSERT_POSITION {
         return low;
     }
     public static void main(String[] args) {
-        int[]arr={1, 3, 5, 6};
+        int[]arr={1, 3, 5, 6};//erikemimtm
         int target=7;
         System.out.print(SRI(arr,target));
     }
