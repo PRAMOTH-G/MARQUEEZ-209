@@ -12,8 +12,7 @@ public class TRIPLETSUM_RANGE {
         
         int high=sc.nextInt();
         System.out.println("MAX "+high);
-        System.out.println(CHECKTRIPLE(arr,low,high));//knub k
-    }
+        System.out.println(CHECKTRIPLE(arr,low,high));
 
 
 
