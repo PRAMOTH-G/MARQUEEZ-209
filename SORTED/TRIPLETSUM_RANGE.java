@@ -32,4 +32,4 @@ public static boolean CHECKTRIPLE(int [] arr,int low,int high){
         }
         return false;
 }
-}//mbhgbjhv
+}
