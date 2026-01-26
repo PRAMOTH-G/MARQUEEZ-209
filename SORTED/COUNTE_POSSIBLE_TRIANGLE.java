@@ -9,7 +9,7 @@ public class COUNTE_POSSIBLE_TRIANGLE {
 
         Arrays.sort(arr);
         int count=0;
-        for(int i=n-1;i>=2;i--){
+        for(int i=n-1;i>=2;i--){//largest element
             int left=0;
             int right=i-1;
 
