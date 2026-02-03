@@ -23,7 +23,8 @@ public class COUNTE_POSSIBLE_TRIANGLE {
                 }
             }
         }
-        return count;    }
+        return count;   
+     }
     public static void main(String[] args) {
         int[] arr = {4, 6, 3, 7};
         System.out.println(countTRI(arr));
